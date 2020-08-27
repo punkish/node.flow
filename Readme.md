@@ -2,7 +2,7 @@
 
 A deadly simple flow control package for node.js
 
-
+**Note:** This update `1.2.4` bumps `node.extend` to `2.0.2` from `1.0.8`
 
 ## Description
 
